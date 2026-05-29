@@ -1,4 +1,3 @@
-[full analysis.pdf](https://github.com/user-attachments/files/28148238/writing.sample.pdf)
 # Analysis of Battery Bidding Behaviours Through Classification Algorithms in UK Power Markets
 
 This repository presents a study applying machine learning classification to identify strategic “fingerprints” of battery energy storage systems (BESS) across multiple UK electricity markets during 2024.
