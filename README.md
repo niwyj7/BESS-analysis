@@ -93,10 +93,12 @@ Sub‑patterns within a strategic group identified via clustering (k‑means, DB
 <img width="1194" height="737" alt="908ee552-7b9e-4ca7-b2ce-5c5c9c3c9e60" src="https://github.com/user-attachments/assets/27974582-d242-4707-a07e-9d16550a7c4b" />
 *Different colours indicate tactical sub‑patterns within the same operator group.*
 
-### Company Sub‑Cluster Example (Flexitricity)
+### Company Sub‑Cluster Example 
 
 Flexitricity’s assets show high association with Auction Unit (Cramér’s V > 0.87) and low with Month (< 0.53), meaning each battery follows a customised, asset‑specific strategy rather than a uniform portfolio approach.
 <img width="1489" height="984" alt="felx plot" src="https://github.com/user-attachments/assets/5c7cd8b0-a353-47b9-989e-f60511a7587c" />
+EDF example.
+<img width="1490" height="984" alt="edf plot" src="https://github.com/user-attachments/assets/e29849ce-c0c0-4d21-bb15-eb395511432a" />
 
 ### Continuous Group Table – EDF Energy Customers
 
